@@ -4,6 +4,4 @@
 ## Features
 
 - [x] Portfolio
-- [ ] One image landing page
-- [ ] Photo album
 
